@@ -1,0 +1,6 @@
+{
+  "name": "elchapo.clg",
+  "description": "elchapo.clg — Minimalist Streetwear Fashion Store & Admin Commerce Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
